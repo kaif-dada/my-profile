@@ -108,5 +108,12 @@ a:hover {
 	color: #e8505b;
 }
 
+.banner {
+	background-image:url(images/office.jpeg);
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
 
 
